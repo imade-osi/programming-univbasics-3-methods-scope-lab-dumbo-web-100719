@@ -14,6 +14,6 @@ def link
 end
 
 def any_phrase(phraseq)
-    puts phrase 
+    puts phraseq 
 end
 
